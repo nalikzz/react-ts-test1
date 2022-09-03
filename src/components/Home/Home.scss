@@ -1,0 +1,16 @@
+.bold{
+    font-weight: bold;
+}
+
+.contain-home{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    @apply p-8
+}
+
+.contain-nav{
+    display: flex;
+    gap: 1rem;
+}
